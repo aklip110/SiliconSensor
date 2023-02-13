@@ -1,0 +1,16 @@
+- Pedestal runs:
+
+	667
+
+- Laser on "NEW" silicon detector, strip with metalization
+	
+	682	laser intensity 4
+	685	laser intensity 5
+	688	laser intensity 6
+	690	laser intensity 7
+	693	laser intensity 8
+	695	laser intensity 9
+	697	laser intensity 10
+	700	laser intensity 3
+
+"NEW" silicon detector is read by 2 readout ASICS with different gain
